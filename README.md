@@ -38,7 +38,7 @@ git clone https://github.com/Devora-Ravitz/Smart_Cover_Letter_Extension.git
 ### **Step 6: Download the Cover Letter**
 You can download the generated cover letter in Word or PDF format or edit it directly within the extension.
 
-![Demo Video](./Cover%20Letter.mp4)
+[Watch the demo video](./Cover%20Letter.mp4)
 
 
 ![image (19)](https://github.com/user-attachments/assets/e680221a-ddbe-4d29-80c6-ccfa8b6f260f)
