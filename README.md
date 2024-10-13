@@ -1,30 +1,43 @@
-Smart Cover Letter Extension
-Smart_Cover_Letter_Extension is a Chrome extension that generates personalized cover letters based on job descriptions. Highlight the job description, send it to the extension, and get a tailored cover letter ready for download in seconds.
+# **Smart_Cover_Letter_Extension**
 
-Requirements
-API Key: You need to create a personal ChatGPT API key from OpenAI.
-Setup Instructions
-Download the project: Clone or download the project from the repository.
-bash
-Copy code
+**Smart_Cover_Letter_Extension** is a Chrome extension that generates personalized cover letters from job descriptions. Highlight the job description, send it to the extension, and in seconds, get a ready-to-download cover letter in Word or PDF format.
+
+## **Requirements**
+- **OpenAI API Key**: You need to create a personal ChatGPT API key from [OpenAI](https://beta.openai.com/signup/).
+
+## **Setup Instructions**
+
+### **Step 1: Download the Project**
+Clone or download the project to your local machine:
+```bash
 git clone https://github.com/Devora-Ravitz/Smart_Cover_Letter_Extension.git
-Create an API key:
-Go to OpenAI and create an account if you don’t have one.
-Generate your API key and keep it safe.
-Update the API key:
-Open the popup.js file in a code editor.
-Replace the placeholder apiKey value with your own key:
-javascript
-Copy code
-const apiKey = 'your_openai_api_key_here';
-Install the extension:
-Open Google Chrome.
-Go to chrome://extensions/ or click the three dots at the top-right corner → More tools → Extensions.
-Enable Developer Mode (top-right corner).
-Click on Load unpacked and select the folder where the project files are located.
-Using the extension:
-Once installed, the extension will appear in the Chrome toolbar.
-Pin it for easy access by clicking the pin icon next to it.
-Highlight the job description on a website, click the extension icon, and generate your personalized cover letter.
-Download the cover letter:
-You can download the generated cover letter as a Word or PDF file.
+```
+
+### **Step 2: Create an API Key**
+1. Go to [OpenAI](https://beta.openai.com/signup/) and create an account.
+2. Generate your API key and copy it.
+
+### **Step 3: Update the API Key**
+1. Open the `popup.js` file in a code editor.
+2. Replace the placeholder `apiKey` value with your own key:
+    ```javascript
+    const apiKey = 'your_openai_api_key_here';
+    ```
+
+### **Step 4: Install the Extension**
+1. Open Google Chrome.
+2. Go to `chrome://extensions/` or click the three dots (top-right corner) → **More Tools** → **Extensions**.
+3. Enable **Developer Mode** (top-right corner).
+4. Click on **Load unpacked** and select the folder where you saved the project files.
+
+### **Step 5: Using the Extension**
+1. After installing, the extension will appear in the Chrome toolbar.
+2. Pin the extension for quick access.
+3. Highlight the job description on any website, click the extension, and generate your personalized cover letter.
+
+### **Step 6: Download the Cover Letter**
+You can download the generated cover letter in Word or PDF format or edit it directly within the extension.
+
+![Uploading image (19).png…]()
+
+
