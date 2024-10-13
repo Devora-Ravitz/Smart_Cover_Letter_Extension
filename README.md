@@ -1,6 +1,6 @@
-# **Smart_Cover_Letter_Extension**
+# **Smart Cover Letter Extension**
 
-**Smart_Cover_Letter_Extension** is a Chrome extension that generates personalized cover letters from job descriptions. Highlight the job description, send it to the extension, and in seconds, get a ready-to-download cover letter in Word or PDF format.
+**Smart Cover Letter Extension** is a Chrome extension that generates personalized cover letters from job descriptions. Highlight the job description, send it to the extension, and in seconds, get a ready-to-download cover letter in Word or PDF format.
 
 ## **Requirements**
 - **OpenAI API Key**: You need to create a personal ChatGPT API key from [OpenAI](https://beta.openai.com/signup/).
@@ -38,6 +38,6 @@ git clone https://github.com/Devora-Ravitz/Smart_Cover_Letter_Extension.git
 ### **Step 6: Download the Cover Letter**
 You can download the generated cover letter in Word or PDF format or edit it directly within the extension.
 
-![Uploading image (19).png…]()
+![image (19)](https://github.com/user-attachments/assets/e680221a-ddbe-4d29-80c6-ccfa8b6f260f)
 
 
